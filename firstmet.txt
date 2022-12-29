@@ -1,0 +1,2 @@
+hello !!
+Friends this is about the first meeting of git!!!
